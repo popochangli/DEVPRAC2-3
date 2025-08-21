@@ -10,7 +10,7 @@ export default function Banner() {
         priority={true}
         objectFit='cover'/>
         <div className={styles.bannerText}>
-            <h1 className={styles.bannerTitle}>where every event finds its venue</h1>
+            <h1 style={{color:'white'}}>where every event finds its venue</h1>
         </div>
     </div>
   );
