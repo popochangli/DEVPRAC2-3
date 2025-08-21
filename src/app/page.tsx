@@ -9,7 +9,6 @@ export default function Home() {
       <Banner />
       <div style={{margin: "20px", display: "flex", flexDirection: "row", flexWrap: "wrap", justifyContent: "space-around", alignContent: "space-around"}}>
         <Card/>
-        <Card/>
       </div>
     </main>
   );
